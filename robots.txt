@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ouzkul.github.io/TKZ/sitemap.TKZ.gz
